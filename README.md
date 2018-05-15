@@ -2,6 +2,7 @@
 
 Requirements
 
+- Kubernetes
 - Docker
 - Make
 - Wordpress
